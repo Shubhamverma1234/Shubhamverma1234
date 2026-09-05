@@ -6,9 +6,9 @@ I am a **Software Engineer & QA Professional** currently working at **Conic Work
 
 ### 💼 What I Bring to the Table
 * **Current Focus:** Software Engineering & Quality Assurance at **Conic Works**.
-* **Web & Mobile Engineering:** Hands-on experience developing applications using PHP, MySQL, JavaScript, Bootstrap, React, and Flutter (with Firebase integrations)[cite: 1].
-* **Quality Assurance Rigor:** Extensive experience in Test Case Design, Functional, Regression, Integration, Smoke, and REST API testing (ex-Capgemini)[cite: 1].
-* **Database & Workflow Integrity:** Writing complex SQL queries for data verification, paired with Git version control, Jira defect tracking, and Jenkins CI workflows[cite: 1].
+* **Web & Mobile Engineering:** Hands-on experience developing applications using PHP, MySQL, JavaScript, Bootstrap, React, and Flutter (with Firebase integrations).
+* **Quality Assurance Rigor:** Extensive experience in Test Case Design, Functional, Regression, Integration, Smoke, and REST API testing (ex-Capgemini).
+* **Database & Workflow Integrity:** Writing complex SQL queries for data verification, paired with Git version control, Jira defect tracking, and Jenkins CI workflows.
 
 ---
 
